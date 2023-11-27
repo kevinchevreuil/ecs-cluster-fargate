@@ -1,0 +1,3 @@
+[submodule "modules/aws-compute-base"]
+	path = modules/aws-compute-base
+	url = https://gitlab.com/kevinchevreuil/aws-compute-base.git
